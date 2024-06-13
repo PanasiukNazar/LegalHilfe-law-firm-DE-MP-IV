@@ -2420,6 +2420,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 .single-review .star .checked {
     color: orange;
 }
+
+.single-review img {
+    height: 350px;
+    object-fit: cover;
+}
+
 @media (max-width: 414px) {
     .single-review {
         padding: 15px;
